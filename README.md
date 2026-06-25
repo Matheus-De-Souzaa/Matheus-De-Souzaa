@@ -105,7 +105,3 @@ Interactive dashboards for business reporting, including data cleansing, KPI def
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souzagomesmatheud2006@gmail.com)
 
 ---
-
-<p align="center">
-  <i>"Code is read more often than it is written — write it for humans."</i>
-</p>
