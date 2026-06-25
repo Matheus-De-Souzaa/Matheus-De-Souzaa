@@ -6,9 +6,8 @@
 
 ## 🧠 About Me
 
-I'm a Full-Stack Software Engineer with solid experience building scalable web applications, robust REST APIs, and data-driven solutions. Currently working close to a Software Engineering role, I thrive at the intersection of clean architecture and real-world delivery.
-
-My stack spans the full lifecycle — from crafting responsive UIs to designing backend services and optimizing databases. I enjoy solving complex problems, writing maintainable code, and continuously leveling up my craft.
+I'm a Full-Stack Software Engineer with hands-on experience building web applications, REST APIs, and scalable backend systems, with a focus on C#, Blazor, and .NET — while also bringing experience with Node.js, PHP (Laravel), and React across real-world projects.
+I'm driven by clean architecture, quality code, and continuous improvement — always looking to grow toward mid-level and beyond.
 
 - 🔨 Currently working with **C#**, **Blazor**, and **.NET** ecosystem
 - 🌐 Experienced in **Node.js**, **PHP (Laravel)**, **React**
@@ -82,15 +81,6 @@ Backend service with structured endpoints, business logic separation, and best p
 Interactive dashboards for business reporting, including data cleansing, KPI definition, and strategic insight generation.
 
 > `Power BI` `DAX` `Data Analysis`
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-De-Souzaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-De-Souzaa&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
 ---
 
