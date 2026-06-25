@@ -13,7 +13,6 @@ I'm driven by clean architecture, quality code, and continuous improvement — a
 - 🌐 Experienced in **Node.js**, **PHP (Laravel)**, **React**
 - 📊 Background in **data analytics** with Power BI
 - 🎓 Degree in **Systems Analysis and Development**
-- 🚀 Aiming for mid-level (Pleno) positions with a focus on backend and full-stack
 
 ---
 
